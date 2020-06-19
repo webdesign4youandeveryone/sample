@@ -1,0 +1,22 @@
+ @media(min-width:500px){ 
+ body{
+background:lightgreen;
+color:black;
+font-family:Times New Roman;
+
+}
+h1{
+	background:lightblue;
+}
+ }
+@media(min-width:1000px){ 
+ body{
+background:lightblue;
+color:black;
+font-family:Times New Roman;
+
+}
+h1{
+	background:lightgreen;
+}
+ }
